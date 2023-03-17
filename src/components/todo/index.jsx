@@ -142,7 +142,7 @@ class Todos extends React.Component {
                             </div>
                         </Col>
                         <Col md={{ size: 4 }}>
-                            sdgfsd
+                    
                         </Col>
 
                     </Row>
